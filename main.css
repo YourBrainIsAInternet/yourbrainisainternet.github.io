@@ -1,0 +1,13 @@
+html {height: 100%;}
+body {
+    height: 100%;
+}
+
+.batman {
+    font-size: 200px;
+    display: inline-block;
+}
+
+.joker {
+    cursor: url(jokah.png), auto;
+}
